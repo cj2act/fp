@@ -1,0 +1,3 @@
+cn/coderjia/fp/ApiBootstrap.class
+cn/coderjia/fp/controller/ApiController.class
+cn/coderjia/fp/feign/UserFeign.class

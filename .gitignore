@@ -1,0 +1,17 @@
+.idea
+将删除 digit-common/target/digit-common-1.0-SNAPSHOT.jar
+将删除 digit-common/target/generated-sources/
+将删除 digit-common/target/maven-archiver/
+将删除 digit-common/target/maven-status/
+将删除 digit-server/target/digit-server-2.0.5.RELEASE.jar
+将删除 digit-server/target/digit-server-2.0.5.RELEASE.jar.original
+将删除 digit-server/target/generated-sources/
+将删除 digit-server/target/generated-test-sources/
+将删除 digit-server/target/maven-archiver/
+将删除 digit-server/target/maven-status/
+digit-common/target
+将删除 digit-common/digit-common.iml
+将删除 digit-root.iml
+将删除 digit-server/digit-server.iml
+digit-server/target
+*.iml
